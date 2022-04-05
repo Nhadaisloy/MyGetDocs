@@ -1,4 +1,4 @@
-# MyGet Security
+neieiejeyueueuu@gmail.com# MyGet Security
 
 MyGet features a rich security model around your feeds. You, as a feed owner, always have the richest set of permissions possible. You can assign privileges to specific users on MyGet using their email address or username.
 
